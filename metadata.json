@@ -1,0 +1,6 @@
+{
+  "name": "Lumen Archivo",
+  "description": "Galería fotográfica editorial con componentes individuales, efectos de hover, zoom interactivo y carga dinámica de imágenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
